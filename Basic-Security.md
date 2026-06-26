@@ -4,25 +4,44 @@
 A comprehensive learning path for building your cybersecurity foundations, from networking and operating systems to security concepts and choosing your specialization track.
 
 ## Table of Contents
-
+- [Computer Fundamentals (A+)](#computer-fundamentals-a)
+- [Programming](#programming)
 - [Network Basics](#network-basics)
 - [Operating Systems Basics](#operating-systems-basics)
-- [Programming](#programming)
 - [Introduction to Cryptography](#introduction-to-cryptography)
 - [Common Terms & Choosing Track](#common-terms--choosing-track)
 - [Am I Ready?](#am-i-ready)
 
 ---
+## Programming
 
+Learn programming fundamentals for cybersecurity applications, based on your interest start in one of those.
+
+Choose one of the following courses:
+
+**Python (Recommended)**
+
+- [Mastering Python Course](https://maharatech.gov.eg/course/view.php?id=43)
+
+---
+## Computer Fundamentals (A+)
+
+Understand how computers work, hardware components, operating systems, troubleshooting, and IT fundamentals.
+
+**Sameh Ramadan**
+
+- [CompTIA A+ Course](https://www.youtube.com/playlist?list=PLH-n8YK76vIiDdOMRB-ylvns-_8Zl1euV)
+
+---
 ## Network Basics
 
 Build a solid foundation in networking concepts and protocols.
 
 Choose one of the following courses:
 
-**Option 1: Sameh Ramadan (Recommended)**
+**Sameh Ramadan**
 
-- [Network+ Course](https://www.youtube.com/c/SamehRamadan)
+- [Network+ Course](https://youtube.com/playlist?list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He&si=EZLBytGtVHm23En7)
 
 ---
 
@@ -32,27 +51,16 @@ Master the fundamentals of operating systems (Windows & Linux).
 
 Choose one of the following courses:
 
-**Option 1: Linux**
+**Linux**
 
-- [Linux Course](https://youtu.be/zBV5Gl0iihI)
+- [Linux Course](https://youtube.com/playlist?list=PLDRMxi70CdSD48OPJbsDZRt4l0GvWJ2iG&si=ivQ-4ZdM27bT0bq3)
 
-**Option 2: MCSA Windows**
+**MCSA Windows**
 
 - [MCSA Windows Course](https://youtube.com/playlist?list=PLDxVq3TlR9y2sMXaL_yLp-r6pUpevgC-w)
 
 ---
 
-## Programming
-
-Learn programming fundamentals for cybersecurity applications, based on your interest start in one of those.
-
-Choose one of the following courses:
-
-**Option 1: Elzero Web School - Python (Recommended)**
-
-- [Mastering Python Course](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
-
----
 
 ## Introduction to Cryptography
 
@@ -60,11 +68,11 @@ Understand the fundamental concepts and differences between encoding, hashing, a
 
 Choose one of the following courses:
 
-**Option 1: Information Security and Cryptography**
+**Information Security and Cryptography**
 
 - [Cryptography Playlist](https://www.youtube.com/playlist?list=PLd2pEan0ZG_Y1lTa4mXV1y0h-iJjINrqX)
 
-**Option 2: Encoding vs Hashing vs Encryption**
+**Encoding vs Hashing vs Encryption**
 
 - [Quick Explanation Video](https://www.youtube.com/watch?v=hyfz_KBDBhg)
 
@@ -76,9 +84,9 @@ Understand essential cybersecurity terminology and concepts.
 
 Choose one of the following courses:
 
-**Option 1: Ahmed Sultan - Security+ SY0-601 (Recommended)**
+**Ahmed Sultan - Security+ SY0-601**
 
-- [Security+ Course](https://www.youtube.com/watch?v=dyKg_bQOXfU)
+- [Security+ Course](https://youtube.com/playlist?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO)
 
 ---
 
