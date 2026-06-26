@@ -94,4 +94,4 @@ A structured roadmap designed to guide aspiring Penetration Testers from cyberse
 
 ---
 
-> كلما اتمرنت أكتر، كلما اكتشفت أكتر — الـ roadmap دي بس أول خطوة في رحلة مش ليها نهاية 
+Practice is what transforms knowledge into skill
