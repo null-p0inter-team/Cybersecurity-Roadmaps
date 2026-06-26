@@ -29,7 +29,7 @@ A structured roadmap designed to guide aspiring Penetration Testers from cyberse
   - [Maharatech](https://maharatech.gov.eg/course/view.php?id=2144)
 
 - **Burp Suite**
-  - [Arabic Explanation — YouTube](https://www.youtube.com/watch?v=oIHofdwI8Hc)
+  - [Arabic Explanation — YouTube](https://youtube.com/playlist?list=PL4S940IsHJYV5gFmhh8vNqTbeUFqDktSh&si=q4PfIB3lKJZ63OZW)
 
 - **Web Pentesting (Practical)**
   - [Arabic Playlist](https://www.youtube.com/playlist?list=PLBbacta63jciTygwsow0qBxzqBS8WhEHB)
@@ -41,24 +41,24 @@ A structured roadmap designed to guide aspiring Penetration Testers from cyberse
 > ابدأ بـ Java Basics الأول، وبعدين انتقل لـ Android Security.
 
 - **Java Basics**
-  - [Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx8xKvAXpb6f0Urj98Xo7zg)
+  - [Elzero Web School](https://youtu.be/FwxbTGxTcVI)
 
 - **Android Pentesting**
-  - [Cyber3rb Academy](https://academy.cyber3rb.com/p/mobile-pentest-level-1)
+  - [Daoud youssef]([https://academy.cyber3rb.com/p/mobile-pentest-level-1](https://youtube.com/playlist?list=PL4S940IsHJYWhhYOpBk6Y-U9nTQq2omae&si=onMUNjwzDv7RVSzo))
 
 - **OWASP Mobile Testing Guide**
   - [mas.owasp.org](https://mas.owasp.org)
 
 - **OWASP Mobile Top 10**
-  - [owasp.org](https://owasp.org/www-project-mobile-top-10)
+  - [OWASP Egypt]([https://owasp.org/www-project-mobile-top-10](https://youtube.com/playlist?list=PLcDbdjUd29zpq727lG3oPJeybHW-lnHZF&si=oNTQUZZmj78Wn_oG))
 
 **Tools:**
 
-- **MobSF** — [mobsf.github.io](https://mobsf.github.io)
+- **MobSF** — [mobsf.github.io](https://github.com/mobsf/mobile-security-framework-mobsf)
 - **Frida** — [frida.re](https://frida.re)
 - **JADX** — [github.com/skylot/jadx](https://github.com/skylot/jadx)
 - **ADB** — [developer.android.com/tools/adb](https://developer.android.com/tools/adb)
-- **DVAA** — [github.com/payatu/DVAA](https://github.com/payatu/DVAA)
+- **DVAA** — [github.com/payatu/DVAA](https://github.com/Kyd1ct/DVAA)
 - **InsecureShop** — [github.com/hax0rgb/InsecureShop](https://github.com/hax0rgb/InsecureShop)
 
 ---
@@ -69,7 +69,7 @@ A structured roadmap designed to guide aspiring Penetration Testers from cyberse
   - [Hassan Saad](https://www.youtube.com/playlist?list=PLtr9ezc61PUbNjSOzxVn98CSy9WrJ_nUQ)
 
 - **Active Directory Pentesting**
-  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGMv3ea6sIpR-eaj0M5cI6kH)
+  - [YouTube Playlist](https://youtube.com/playlist?list=PLQbclKkFDCGNm0nAxTngZlRnCyGSLgdDM&si=EAcNvjLxowfW3Kll)
 
 - **Nmap + Metasploit**
   - [Coursera — Arabic](https://www.coursera.org/learn/metasploit-lilmubtadiiyna-asasiaat-aliastighlal)
