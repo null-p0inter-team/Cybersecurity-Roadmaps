@@ -44,13 +44,13 @@ A structured roadmap designed to guide aspiring Penetration Testers from cyberse
   - [Elzero Web School](https://youtu.be/FwxbTGxTcVI)
 
 - **Android Pentesting**
-  - [Daoud youssef]([https://academy.cyber3rb.com/p/mobile-pentest-level-1](https://youtube.com/playlist?list=PL4S940IsHJYWhhYOpBk6Y-U9nTQq2omae&si=onMUNjwzDv7RVSzo))
+  - [Daoud youssef](https://academy.cyber3rb.com/p/mobile-pentest-level-1](https://youtube.com/playlist?list=PL4S940IsHJYWhhYOpBk6Y-U9nTQq2omae&si=onMUNjwzDv7RVSzo))
 
 - **OWASP Mobile Testing Guide**
   - [mas.owasp.org](https://mas.owasp.org)
 
 - **OWASP Mobile Top 10**
-  - [OWASP Egypt]([https://owasp.org/www-project-mobile-top-10](https://youtube.com/playlist?list=PLcDbdjUd29zpq727lG3oPJeybHW-lnHZF&si=oNTQUZZmj78Wn_oG))
+  - [OWASP Egypt](https://owasp.org/www-project-mobile-top-10](https://youtube.com/playlist?list=PLcDbdjUd29zpq727lG3oPJeybHW-lnHZF&si=oNTQUZZmj78Wn_oG))
 
 **Tools:**
 
