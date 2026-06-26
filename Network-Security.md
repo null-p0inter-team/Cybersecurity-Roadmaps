@@ -1,6 +1,6 @@
-# 🔐 Network Security Roadmap
+#  Network Security Roadmap
 
-> ⚠️ **Before you start** — make sure you've completed the fundamentals first. If you're still missing anything, go back to the Basics Roadmap and finish it before continuing here.
+> **Before you start** — make sure you've completed the fundamentals first. If you're still missing anything, go back to the Basics Roadmap and finish it before continuing here.
 
 ---
 
