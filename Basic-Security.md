@@ -103,9 +103,9 @@ The More you'll practice the more you will explore more cybersecurity concepts. 
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faresaddell20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fares-adell2007)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faresadell)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nullp0interteam2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/fares-adell2007](https://www.linkedin.com/in/null-p0inter-team-367a98409?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/null-p0inter-team)
 
 </div>
 
@@ -115,4 +115,4 @@ The More you'll practice the more you will explore more cybersecurity concepts. 
 
 </div>
 
-Happy Learning! 🚀
+Happy Learning! 
