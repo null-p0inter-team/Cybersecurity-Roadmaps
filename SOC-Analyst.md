@@ -2,22 +2,28 @@
 
 A comprehensive learning path for becoming a proficient SOC Analyst, from fundamentals to advanced detection and threat hunting.
 
+**Estimated Duration:** 4–8 Months
+**Target Role:** SOC Analyst Level 1
+**Prerequisites:** Networking, Windows, Linux, Security+
+
 ## Table of Contents
 
 - [Phase 01 - SOC Fundamentals](#phase-01---soc-fundamentals)
 - [Phase 02 - Log Analysis](#phase-02---log-analysis)
 - [Phase 03 - Threat Intelligence](#phase-03---threat-intelligence)
 - [Phase 04 - SIEM Fundamentals](#phase-04---siem-fundamentals)
-- [Phase 05 - SIEM Solution (IBM QRadar)](#phase-05---siem-solution-ibm-qradar)
+- [Phase 05 - SIEM Solutions](#phase-05---siem-solutions)
 - [Phase 06 - Endpoint Security & EDR](#phase-06---endpoint-security--edr)
-- [Phase 07 - SOC Investigation](#phase-07---soc-investigation)
-- [Phase 08 - Incident Handling](#phase-08---incident-handling)
-- [Phase 09 - Network Traffic Analysis](#phase-09---network-traffic-analysis)
-- [Phase 10 - Detection Engineering](#phase-10---detection-engineering)
-- [Phase 11 - Threat Hunting](#phase-11---threat-hunting)
-- [Phase 12 - Practical Labs](#phase-12---practical-labs)
-- [Phase 13 - Certification Preparation](#phase-13---certification-preparation)
+- [Phase 07 - SOC Investigation & Case Management](#phase-07---soc-investigation--case-management)
+- [Phase 08 - Email Analysis](#phase-08---email-analysis)
+- [Phase 09 - Incident Handling](#phase-09---incident-handling)
+- [Phase 10 - Network Traffic Analysis](#phase-10---network-traffic-analysis)
+- [Phase 11 - Detection Engineering](#phase-11---detection-engineering)
+- [Phase 12 - Threat Hunting](#phase-12---threat-hunting)
+- [Phase 13 - Practical Labs](#phase-13---practical-labs)
+- [Phase 14 - Certification Preparation](#phase-14---certification-preparation)
 - [Bonus - Recommended Book](#bonus---recommended-book)
+- [Bonus - Advanced & Optional Topics](#bonus---advanced--optional-topics)
 
 > You must complete the Basics Roadmap (Networking, Windows, Linux, Security+) before starting here.
 
@@ -40,7 +46,7 @@ A comprehensive learning path for becoming a proficient SOC Analyst, from fundam
   - [MITRE ATT&CK Official Training](https://attack.mitre.org/resources/learn-more-about-attack/training/)
 
   **Option 3: Purple Academy (recommended)**
-  - [Beginners Guide to MITRE ATT&CK](https://academy.picussecurity.com/course/cyber-threat-intelligence)
+  - [Beginners Guide to MITRE ATT&CK](https://academy.picussecurity.com/course/mitre-attck-fundamentals)
 
 ---
 
@@ -66,11 +72,13 @@ A comprehensive learning path for becoming a proficient SOC Analyst, from fundam
 
 - **Threat Intelligence Fundamentals:**
 
-  - [SOC Fundamental Course](https://netriders.academy/all-courses/soc-fundamental/)
+  - [Cyber Threat Intelligence — Purple Academy](https://academy.picussecurity.com/course/cyber-threat-intelligence)
 
-- **MITRE ATT&CK Mapping:**
+- **Threat Intelligence Platforms & Feeds:**
 
-  - [MITRE ATT&CK Official](https://attack.mitre.org)
+  - [VirusTotal](https://www.virustotal.com)
+  - [AbuseIPDB](https://www.abuseipdb.com)
+  - [AlienVault OTX](https://otx.alienvault.com)
 
 ---
 
@@ -82,11 +90,32 @@ A comprehensive learning path for becoming a proficient SOC Analyst, from fundam
 
 ---
 
-## Phase 05 - SIEM Solution (IBM QRadar)
+## Phase 05 - SIEM Solutions
 
-- **QRadar Fundamentals:**
+- **IBM QRadar:**
 
   - [IBM QRadar — Full Arabic Series](https://www.youtube.com/watch?v=lcgWgavJ-vc&list=PL-ychzBA8c71hZHAMIxkbMBXWaZ3EHxlg)
+
+- **Splunk:**
+
+  Choose one of the following:
+
+  **Option 1: Splunk Free Training (recommended)**
+  - [Splunk Fundamentals 1 — Splunk Education](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
+
+  **Option 2: TryHackMe Splunk Room**
+  - [Splunk: Basics — TryHackMe](https://tryhackme.com/room/splunk101)
+
+- **ELK Stack (Elasticsearch, Logstash, Kibana):**
+
+  - [ELK Stack Getting Started — Elastic Official](https://www.elastic.co/getting-started)
+  - [ELK Stack — TryHackMe](https://tryhackme.com/room/investigatingwithelk101)
+
+- **Microsoft Sentinel & KQL:**
+
+  - [Microsoft Sentinel — Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/sc-200-utilize-kql-for-azure-sentinel/)
+  - [KQL for Beginners — Microsoft Learn](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/tutorials/learn-common-operators)
+  - [Microsoft Sentinel — TryHackMe](https://tryhackme.com/room/microsoftsentinel)
 
 ---
 
@@ -106,38 +135,60 @@ A comprehensive learning path for becoming a proficient SOC Analyst, from fundam
   **Option 2: Introduction Module**
   - [Introduction to Defender for Endpoint](https://learn.microsoft.com/en-us/training/modules/m365-introduction-defender-endpoint/)
 
-- **CrowdStrike Falcon:**
-
-  - [Falcon Fundamentals — CrowdStrike University](https://university.crowdstrike.com/learn)
-
 - **Sysmon Deep Dive:**
 
   - [SwiftOnSecurity Sysmon Config](https://github.com/SwiftOnSecurity/sysmon-config)
 
 ---
 
-## Phase 07 - SOC Investigation
+## Phase 07 - SOC Investigation & Case Management
 
-- **Alert Triage & Case Management:**
+- **Alert Triage:**
 
   - [SOC Investigation Course (Arabic)](https://www.youtube.com/playlist?list=PLdUDP-atVHBoDae43tcUZnW1YsjoPJRvP)
 
----
+- **Ticketing & Case Management Tools:**
 
-## Phase 08 - Incident Handling
-
-Choose one of the following:
-
-**Option 1: Khaled Allam's Summary**
-- [Khaled Allam's Summary](https://www.facebook.com/groups/371869175117889/permalink/493258529645619/)
-
-**Option 2: YouTube Series (recommended)**
-- [Incident Handling Series](https://www.youtube.com/watch?v=Lh0bmeDQGhA&list=PL-ychzBA8c71ph1BVH26-h_SMYQnVGOaW)
-- [Supporting Video](https://www.youtube.com/watch?v=laG15T1oRyI)
+  - [TheHive Project — Official Docs](https://docs.strangebee.com/thehive/)
+  - [TheHive Intro — TryHackMe](https://tryhackme.com/room/thehiveproject)
 
 ---
 
-## Phase 09 - Network Traffic Analysis
+## Phase 08 - Email Analysis
+
+- **Phishing Investigation & Email Analysis:**
+
+  - [Phishing Analysis — TryHackMe](https://tryhackme.com/room/phishingemails1tryoe)
+  - [Phishtool](https://www.phishtool.com)
+  - [Email Header Analyzer — MXToolbox](https://mxtoolbox.com/EmailHeaders.aspx)
+
+- **Malware Sandboxing:**
+
+  - [ANY.RUN](https://any.run)
+  - [Joe Sandbox](https://www.joesandbox.com)
+
+---
+
+## Phase 09 - Incident Handling
+
+- **eCIR Prep Course (recommended) — Netriders Academy:**
+
+  - [eCIR Prep — Netriders Academy](https://netriders.academy/all-courses/incident-response/)
+
+- **Supporting Resources:**
+
+  Choose one of the following:
+
+  **Option 1: Khaled Allam's Summary**
+  - [Khaled Allam's Summary](https://www.facebook.com/groups/371869175117889/permalink/493258529645619/)
+
+  **Option 2: YouTube Series**
+  - [Incident Handling Series](https://www.youtube.com/watch?v=Lh0bmeDQGhA&list=PL-ychzBA8c71ph1BVH26-h_SMYQnVGOaW)
+  - [Supporting Video](https://www.youtube.com/watch?v=laG15T1oRyI)
+
+---
+
+## Phase 10 - Network Traffic Analysis
 
 Choose one of the following:
 
@@ -149,7 +200,7 @@ Choose one of the following:
 
 ---
 
-## Phase 10 - Detection Engineering
+## Phase 11 - Detection Engineering
 
 - **Sigma Rules:**
 
@@ -167,7 +218,7 @@ Choose one of the following:
 
 ---
 
-## Phase 11 - Threat Hunting
+## Phase 12 - Threat Hunting
 
 - **Threat Hunting Fundamentals:**
 
@@ -175,7 +226,7 @@ Choose one of the following:
 
 ---
 
-## Phase 12 - Practical Labs
+## Phase 13 - Practical Labs
 
 Choose one of the following:
 
@@ -197,11 +248,20 @@ Choose one of the following:
 
 ---
 
-## Phase 13 - Certification Preparation
+## Phase 14 - Certification Preparation
 
 - **SOC Fundamental Certificate:**
 
   - [SOC Fundamental — Netriders Academy](https://netriders.academy/all-courses/soc-fundamental/)
+
+- **eCIR — eLearnSecurity:**
+
+  - [eCIR Guide — Netriders Academy](https://netriders.academy/ecir-guide/)
+
+- **CompTIA CySA+:**
+
+  - [CySA+ Guide — Netriders Academy](https://netriders.academy/cysa-guide/)
+  - [CySA+ Learning Path — Microsoft Learn](https://learn.microsoft.com/en-us/certifications/exams/cs0-003/)
 
 ---
 
@@ -211,5 +271,32 @@ Choose one of the following:
 
 ---
 
+## Bonus - Advanced & Optional Topics
 
-> Practice is what transforms knowledge into skill 
+> هذه المواضيع مش ضرورية للمبتدئ، لكن تفيد في الـ Level 2 وما بعده.
+
+- **SOAR Fundamentals:**
+
+  - [What is SOAR? — Splunk Blog](https://www.splunk.com/en_us/blog/learn/soar-security-orchestration-automation-response.html)
+
+  Choose one of the following:
+
+  **Option 1: Shuffle SOAR (recommended — Open Source)**
+  - [Shuffle SOAR — Official Docs](https://shuffler.io/docs/about)
+  - [Shuffle SOAR — TryHackMe](https://tryhackme.com/room/shuffle)
+
+  **Option 2: Splunk SOAR**
+  - [Splunk SOAR — Official Docs](https://docs.splunk.com/Documentation/SOAR)
+
+- **Cloud Log Analysis:**
+
+  - [AWS CloudTrail — Official Docs](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
+  - [Azure Monitor Activity Logs — Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log)
+
+- **CrowdStrike Falcon:**
+
+  - [Falcon Fundamentals — CrowdStrike University](https://university.crowdstrike.com/learn)
+
+---
+
+> Practice is what transforms knowledge into skill
